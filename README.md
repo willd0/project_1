@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 3. Once the database is set up, in order to get the project running on your local machine you will first need to create an initial quote in the database. This can be done by using the 'rails console' command and running 'Quote.create(saying: 'quote', author: 'author')'. Once this is done, you should be able to successfully run the app on your local machine.
 
-## Deployed Version of the App:
+## Deployed Version of the App
 
 ![Splurty](app/assets/images/splurtyapp.png)
 https://splurty-will-daskam.herokuapp.com/
