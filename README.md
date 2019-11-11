@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Deployed Version of the App:
 
-(app/assets/images/splurtyapp.png)
+![Splurty](app/assets/images/splurtyapp.png)
 https://splurty-will-daskam.herokuapp.com/
 
 ## Built With
